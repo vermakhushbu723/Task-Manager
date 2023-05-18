@@ -1,18 +1,21 @@
 # Task-Manager App
 This is a full stack application developed with Mongo, Express, React and Nodejs stack. This app provides easy way to manager tasks.
-![2023-05-18](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/59d4e838-d89f-4991-9630-0aab0e3ddc3c)
-![2023-05-18 (1)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/a1b484ca-e322-4871-bc59-401e31d3d92d
-![2023-05-18 (2)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/ab251bcf-edb4-4e8f-aa5a-650e6a6da067)
-![Uploading 2023-05-18 (2).png…]()
-![2023-05-18 (3)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/74a51dd4-e08c-4746-877b-922149bec52f)
-![Uploading 2023-05-18 (4).png…]()
-![Uploading 2023-05-18 (5).png…]()
 
-![Uploading 2023-05-18 (6).png…]()
+#![2023-05-18](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/8bc59a14-956d-40e6-b96a-01de2507e1ab)
 
+#![2023-05-18 (1)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/d431a2b9-b6f7-4aa9-9c60-137bb0fe2ac5)
 
+#![2023-05-18 (2)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/c68f7d78-a5a9-4b66-b953-8b2e38a1fdf4)
 
-Please modify file config/config.js which will hold the mongoURI and JWT secret. Format:
+#![2023-05-18 (3)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/d3d06eba-9635-4708-942d-de72d5c3cf7a)
+
+#![2023-05-18 (4)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/6f278844-5011-450a-8b59-1ed57cf894b6)
+
+#![2023-05-18 (5)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/ad58d596-6b2f-4ba6-8f45-dd6830a06fc3)
+
+#![2023-05-18 (6)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/b69cad01-a7c8-40b7-83c8-0336964686a9)
+
+#Please modify file config/config.js which will hold the mongoURI and JWT secret. Format:
 
 ```json
 {
