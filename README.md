@@ -1,8 +1,16 @@
 # Task-Manager App
 This is a full stack application developed with Mongo, Express, React and Nodejs stack. This app provides easy way to manager tasks.
+![2023-05-18](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/59d4e838-d89f-4991-9630-0aab0e3ddc3c)
+![2023-05-18 (1)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/a1b484ca-e322-4871-bc59-401e31d3d92d
+![2023-05-18 (2)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/ab251bcf-edb4-4e8f-aa5a-650e6a6da067)
+![Uploading 2023-05-18 (2).png…]()
+![2023-05-18 (3)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/74a51dd4-e08c-4746-877b-922149bec52f)
+![Uploading 2023-05-18 (4).png…]()
+![Uploading 2023-05-18 (5).png…]()
+
+![Uploading 2023-05-18 (6).png…]()
 
 
-## Handling Mongo URI and SECRET![2023-05-18 (2)](https://github.com/vermakhushbu723/Task-Manager-Ascend-Assessment/assets/116518735/68a13c75-a822-42f1-a355-3c6e38a45aa0)
 
 Please modify file config/config.js which will hold the mongoURI and JWT secret. Format:
 
