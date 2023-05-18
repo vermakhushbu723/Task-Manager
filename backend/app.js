@@ -11,7 +11,7 @@ const logger = require('./utilities/logger');
 const cors = require('cors');
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT||5000;
 
 app.use('/uploads', express.static('uploads'));
 // Cors middleware
